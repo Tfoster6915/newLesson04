@@ -1,0 +1,60 @@
+*{
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    color: #343434;
+}
+.main-body{
+    text-align: center;
+}
+
+a{
+    color:#ffe66d;
+}
+
+img{
+width: 300px;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: cornflowerblue;
+}
+header{
+    font-size: larger;
+    background: #2f3061;
+    color: #F7FFF7;
+    text-align: center;
+}
+
+.sub-header{
+    text-align: center;
+}
+.btn{
+    color: #F7FFF7;
+    background: #33A2FF;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.work{
+    background: #A1C6D7;
+    text-align: center;
+}
+.work ul{
+    list-style: none;
+}
+footer{
+    background: #343434;
+  color: #F7FFF7;
+  text-align: center;
+}
+footer ul{
+    list-style:none ;
+}
+.education{
+    text-align: center;
+}
